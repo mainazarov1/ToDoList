@@ -1,0 +1,23 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "TODO List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mainazarov1/ToDoList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mainazarov1/ToDoList/issues"
+  },
+  "homepage": "https://github.com/mainazarov1/ToDoList#readme",
+  "dependencies": {
+    "bootstrap-icons": "^1.8.1",
+    "sass": "^1.49.9"
+  }
+}
